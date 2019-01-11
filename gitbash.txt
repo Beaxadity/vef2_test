@@ -1,0 +1,1 @@
+þetta er texti sem fer á github með gitbash
